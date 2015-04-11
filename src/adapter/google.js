@@ -28,7 +28,7 @@ proto.generalize = function(searchResult) {
     title: searchResult.title,
     link: searchResult.href,
     identifier: shasum.digest('hex'),
-    abstract: searchResult.description
+    text: searchResult.description
   };
 };
 

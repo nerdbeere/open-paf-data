@@ -1,5 +1,6 @@
 var NewsHandler = require('./handler/news-handler');
 var SearchHandler = require('./handler/search-handler');
+var SocialHandler = require('./handler/social-handler');
 var winston = require('winston');
 var CronJob = require('cron').CronJob;
 
@@ -7,13 +8,15 @@ var adapters = [
   'landkreis-pfaffenhofen',
   'pafunddu',
   'pfaffenhofener-kurier',
-  'google'
+  'google',
+  'twitter'
 ];
 
 function PafData() {
   this._handler = {
     news: new NewsHandler(),
     search: new SearchHandler(),
+    social: new SocialHandler(),
   };
 
   this._adapters = [];

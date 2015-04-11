@@ -28,6 +28,7 @@
     "natural": "^0.2.1",
     "request": "^2.55.0",
     "rethinkdb": "^1.16.2",
-    "sanitize-html": "^1.6.1"
+    "sanitize-html": "^1.6.1",
+    "twitter": "^1.2.5"
   }
 }

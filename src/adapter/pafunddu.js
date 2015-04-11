@@ -28,7 +28,7 @@ proto.generalize = function(news) {
   var data = {
     type: this.getType(),
     title: this._sanitize(news.title),
-    abstract: this._sanitize(description),
+    text: this._sanitize(description),
     date: new Date(news.pubDate),
     tags: tags,
     link: news.link,

@@ -32,7 +32,7 @@ The data should then be accessible via a generic json api (not implemented yet).
 
 ## Installation
 * Install `nodejs` and `rethinkdb` on your machine.
-* Create database `pafdata`
+* Create database `pafdata` with tables `news`, `search`, `social`
 * Clone the repository
 * `npm install`
 * `npm run start-crawler`
