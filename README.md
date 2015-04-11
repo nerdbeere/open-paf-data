@@ -9,7 +9,7 @@ The data should then be accessible via a generic json api (not implemented yet).
 
 > If the mountain won't come to Muhammad, Muhammad must go to the mountain.
 
-There is a lot of data out there regarding the county *Pfaffenhofen a. d. Ilm* but it's scattered and most of the are data is not available in a generic format.
+There is a lot of data out there regarding the county *Pfaffenhofen a. d. Ilm* but it's scattered and most of data data is not available in a machine-readable or generic format.
 
 ## Implemented Features
 
