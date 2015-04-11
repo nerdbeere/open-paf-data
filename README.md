@@ -24,8 +24,10 @@ The data should then be accessible via a generic json api (not implemented yet).
 ### Search Engines
 * google (with searchterm `pfaffenhofen ilm`)
 
+### Social
+* twitter (with searchterm `pfaffenhofen`)
+
 ## Planned Adapters
-* Twitter with geo data
 * Weather data
 * Events
 * Business hours for Shops, restaurants, authorities
