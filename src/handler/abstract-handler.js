@@ -1,12 +1,8 @@
 var r = require('rethinkdb');
+var config = require('../../config/rethinkdb.js');
 
 function Handler() {
-  this._options = {
-    host: 'localhost',
-    port: 28015,
-    db: 'openpaf',
-    //authKey: 'hunter2'
-  };
+  this._options = config;
 
   this._table = null;
 }

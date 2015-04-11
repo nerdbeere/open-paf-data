@@ -1,3 +1,4 @@
 node_modules
 config/twitter.js
+config/rethinkdb.js
 npm-debug.log
