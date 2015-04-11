@@ -8,6 +8,7 @@ The data should then be accessible via a generic json api (not implemented yet).
 ## Implemented Features
 
 * Gather and generalize data from different sources
+* Automatically gathers information in predefined intervals
 * Persist data to `rethinkdb`
 
 ## Planned Features
