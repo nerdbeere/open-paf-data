@@ -29,6 +29,7 @@
     "request": "^2.55.0",
     "rethinkdb": "^1.16.2",
     "sanitize-html": "^1.6.1",
-    "twitter": "^1.2.5"
+    "twitter": "^1.2.5",
+    "winston": "^1.0.0"
   }
 }
