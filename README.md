@@ -5,6 +5,12 @@
 An approach to gather and analyze data (news, search results, social behavior) about Pfaffenhofen a. d. Ilm.
 The data should then be accessible via a generic json api (not implemented yet).
 
+## Why?
+
+> If the mountain won't come to Muhammad, Muhammad must go to the mountain.
+
+There is a lot of data out there regarding the county *Pfaffenhofen a. d. Ilm* but it's scattered and most of the are data is not available in a generic format.
+
 ## Implemented Features
 
 * Gather and generalize data from different sources
