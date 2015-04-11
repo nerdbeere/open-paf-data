@@ -27,6 +27,7 @@ The data should then be accessible via a generic json api (not implemented yet).
 ## Planned Adapters
 * Twitter with geo data
 * Weather data
+* Events
 * Business hours for Shops, restaurants, authorities
 * Cinema data
 
