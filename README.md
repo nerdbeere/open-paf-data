@@ -1,5 +1,7 @@
 # Open Paf Data
 
+![Logo Pfaffenhofen](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wappen_Landkreis_Pfaffenhofen_an_der_Ilm.svg/140px-Wappen_Landkreis_Pfaffenhofen_an_der_Ilm.svg.png)
+
 An approach to gather and analyze data (news, search results, social behavior) about Pfaffenhofen a. d. Ilm.
 The data should then be accessible via a generic json api (not implemented yet).
 
@@ -37,6 +39,7 @@ The data should then be accessible via a generic json api (not implemented yet).
 * Install `nodejs` and `rethinkdb` on your machine.
 * Create database `pafdata` with tables `news`, `search`, `social`
 * Clone the repository
+* Create config files by copying the example config files
 * `npm install`
 * `npm run start-crawler`
 
