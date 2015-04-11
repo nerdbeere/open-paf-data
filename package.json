@@ -1,0 +1,33 @@
+{
+  "name": "openpafdata",
+  "version": "0.0.1",
+  "description": "A tool that gathers and analyzes information about pfaffenhofen (paf)",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul test _mocha  -- --reporter dot --recursive -r setup-referee-sinon/globals test",
+    "start-crawler": "node index.js",
+    "start": "npm run start-crawler"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "istanbul": "^0.3.6",
+    "jscs": "^1.11.3",
+    "jshint": "^2.6.0",
+    "mocha": "^2.1.0",
+    "referee": "^1.1.1",
+    "referee-sinon": "^1.0.2",
+    "setup-referee-sinon": "^0.2.0",
+    "sinon": "^1.12.2"
+  },
+  "dependencies": {
+    "cron": "^1.0.9",
+    "feedparser": "^1.0.1",
+    "google": "^1.1.0",
+    "lodash": "^3.6.0",
+    "natural": "^0.2.1",
+    "request": "^2.55.0",
+    "rethinkdb": "^1.16.2",
+    "sanitize-html": "^1.6.1"
+  }
+}
