@@ -1,11 +1,20 @@
 # Open Paf Data
 
+![Logo Pfaffenhofen](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wappen_Landkreis_Pfaffenhofen_an_der_Ilm.svg/140px-Wappen_Landkreis_Pfaffenhofen_an_der_Ilm.svg.png)
+
 An approach to gather and analyze data (news, search results, social behavior) about Pfaffenhofen a. d. Ilm.
 The data should then be accessible via a generic json api (not implemented yet).
+
+## Why?
+
+> If the mountain won't come to Muhammad, Muhammad must go to the mountain.
+
+There is a lot of data out there regarding the county *Pfaffenhofen a. d. Ilm* but it's scattered and most of data data is not available in a machine-readable or generic format.
 
 ## Implemented Features
 
 * Gather and generalize data from different sources
+* Automatically gathers information in predefined intervals
 * Persist data to `rethinkdb`
 
 ## Planned Features
@@ -37,6 +46,7 @@ The data should then be accessible via a generic json api (not implemented yet).
 * Install `nodejs` and `rethinkdb` on your machine.
 * Create database `pafdata` with tables `news`, `search`, `social`
 * Clone the repository
+* Create config files by copying the example config files
 * `npm install`
 * `npm run start-crawler`
 
