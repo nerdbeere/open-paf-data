@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "istanbul test _mocha  -- --reporter dot --recursive -r setup-referee-sinon/globals test",
-    "start-crawler": "node index.js",
-    "start": "npm run start-crawler"
+    "start-crawler": "node ./src/crawler/index.js",
+    "start-api": "node ./src/api/index.js",
+    "start": "node index.js"
   },
   "author": "",
   "license": "MIT",
@@ -22,6 +23,7 @@
   },
   "dependencies": {
     "cron": "^1.0.9",
+    "express": "^4.12.3",
     "feedparser": "^1.0.1",
     "google": "^1.1.0",
     "lodash": "^3.6.0",
