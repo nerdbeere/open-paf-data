@@ -1,4 +1,4 @@
-var TextAnalyzer = require('../../src/lib/text-analyzer');
+var TextAnalyzer = require('../../src/shared/text-analyzer');
 
 describe('TextAnalyzer', function() {
 

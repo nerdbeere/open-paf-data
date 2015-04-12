@@ -1,3 +1,3 @@
-var PafData = require('./src/paf-data.js');
+var Crawler = require('./src/crawler/index.js');
 
-new PafData();
+new Crawler();

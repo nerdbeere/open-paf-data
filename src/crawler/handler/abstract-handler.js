@@ -1,5 +1,5 @@
 var r = require('rethinkdb');
-var config = require('../../config/rethinkdb.js');
+var config = require('../../../config/rethinkdb.js');
 
 function Handler() {
   this._options = config;

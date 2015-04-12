@@ -1,4 +1,4 @@
-var Rss = require('../lib/rss');
+var Rss = require('../../shared/rss');
 var inherits = require('util').inherits;
 var AbstractAdapter = require('./abstract-adapter');
 

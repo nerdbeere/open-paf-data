@@ -1,7 +1,7 @@
 var AbstractAdapter = require('./abstract-adapter');
 var inherits = require('util').inherits;
 var crypto = require('crypto');
-var twitterConfig = require('../../config/twitter');
+var twitterConfig = require('../../../config/twitter');
 var TwitterLib = require('twitter');
 var winston = require('winston');
 
