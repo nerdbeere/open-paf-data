@@ -1,0 +1,1814 @@
+[
+  {
+    "name": "Abeltshausen",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Affalterbach",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Agelsberg",
+    "belongsTo": "Reichertshofen"
+  },
+  {
+    "name": "Aichmühle",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Aign",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Ainau",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Alberzell",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Altkaslehen",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Ampertshausen",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Angkofen",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Ankertshausen",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Arnsried",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Attenhausen",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Au",
+    "belongsTo": "Münchsmünster"
+  },
+  {
+    "name": "Au am Aign",
+    "belongsTo": "Reichertshofen"
+  },
+  {
+    "name": "Aufham",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Auhausen",
+    "belongsTo": "Münchsmünster"
+  },
+  {
+    "name": "Auhof",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Auhöfe",
+    "belongsTo": "Vohburg a.d.Donau"
+  },
+  {
+    "name": "Auhöfe",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Baar",
+    "belongsTo": "Baar-Ebenhausen"
+  },
+  {
+    "name": "Bachappen",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Badershausen",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Bärnhausen",
+    "belongsTo": "Reichertshausen"
+  },
+  {
+    "name": "Beigelswinden",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Bergern",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Berghof",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Bettermacher",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Beuern",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Biberg",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Birketbaur",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Blaumosen",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Bockhof",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Branst",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Bratzhof",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Bratzmühle",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Breitsamet",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Brenntenholz",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Bruckbach",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Brunn",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Brunnhof",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Brunnhof",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Buch",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Buchersried",
+    "belongsTo": "Rohrbach"
+  },
+  {
+    "name": "Buchhof",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Burgstall",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Dallach",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Daselmühle",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Deimhausen",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Dietersdorf",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Dirnbergermühle",
+    "belongsTo": "Münchsmünster"
+  },
+  {
+    "name": "Doderhof",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Dörfl",
+    "belongsTo": "Reichertshofen"
+  },
+  {
+    "name": "Duckenried",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Dünzing",
+    "belongsTo": "Vohburg a.d.Donau"
+  },
+  {
+    "name": "Durchschlacht",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Durchschlacht",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Dürnthal",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Dürnzhausen",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Ebenhausen",
+    "belongsTo": "Baar-Ebenhausen"
+  },
+  {
+    "name": "Ebenhausen-Werk",
+    "belongsTo": "Baar-Ebenhausen"
+  },
+  {
+    "name": "Ebenhof",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Eberstetten",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Eck",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Eckersberg",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Edenhub",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Edenthal",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Edersberg",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Edling",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Egg",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Eggern",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Ehrenberg",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Ehrensberg",
+    "belongsTo": "Hettenshausen"
+  },
+  {
+    "name": "Eichberg",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Eichelberg",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Einberg",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Einödshof",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Einsassen",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Eisenhut",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Eja",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Ellenbach",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Engelbrechtsmünster",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Englmannsberg",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Englmannszell",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Entrischenbrunn",
+    "belongsTo": "Hettenshausen"
+  },
+  {
+    "name": "Ernsgaden",
+    "belongsTo": null
+  },
+  {
+    "name": "Eschelbach an der Ilm",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Euernbach",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Eulenried",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Eulenthal",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Eutenhofen",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Fahlenbach",
+    "belongsTo": "Rohrbach"
+  },
+  {
+    "name": "Felbern",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Feldhof",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Feldmühle",
+    "belongsTo": "Hettenshausen"
+  },
+  {
+    "name": "Fernhag",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Finkenzell",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Förnbach",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Forstern",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Forsthof",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Forstpriel",
+    "belongsTo": "Münchsmünster"
+  },
+  {
+    "name": "Forstwiesen",
+    "belongsTo": "Manching"
+  },
+  {
+    "name": "Frechmühle",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Frechmühle",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Freinhausen",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Frickendorf",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Friedlhof",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Froschbach",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Fürholzen",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Fürholzen",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Fürholzen",
+    "belongsTo": "Rohrbach"
+  },
+  {
+    "name": "Furthof",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Gaden bei Geisenfeld",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Gambach",
+    "belongsTo": "Rohrbach"
+  },
+  {
+    "name": "Garbertshausen",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Gebrontshausen",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Geisenfeld",
+    "belongsTo": null
+  },
+  {
+    "name": "Geisenfeldwinden",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Geisenhausen",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Gerenzhausen",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Geroldshausen in der Hallertau",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Gerolsbach",
+    "belongsTo": null
+  },
+  {
+    "name": "Giegenhausen",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Gießübel",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Giglhof",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Gittenbach",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Gmeind",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Gneisdorf",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Göbelsbach",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Gosseltshausen",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Gotteshofen",
+    "belongsTo": "Reichertshofen"
+  },
+  {
+    "name": "Grafing",
+    "belongsTo": "Reichertshausen"
+  },
+  {
+    "name": "Graham",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Grainstetten",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Griesbach",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Griesham",
+    "belongsTo": "Münchsmünster"
+  },
+  {
+    "name": "Gröben",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Großarreshausen",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Großpalmberg",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Grub",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Grub",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Grubhof",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Grubhof",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Grubwinn",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Gründholm",
+    "belongsTo": "Reichertshausen"
+  },
+  {
+    "name": "Grünthal",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Gschwend",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Gumelsberg",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Gumpersdorf",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Gundamsried",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Gundelshausen",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Güntersdorf",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Günthal",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Gurnöbach",
+    "belongsTo": "Reichertshausen"
+  },
+  {
+    "name": "Gütersberg",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Habertshausen",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Hagertshausen",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Haimpertshofen",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Hammerschmiede",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Hanfkolm",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Happertshofen",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Hardt",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Hareß",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Harres",
+    "belongsTo": "Hettenshausen"
+  },
+  {
+    "name": "Harreß",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Hartacker",
+    "belongsTo": "Vohburg a.d.Donau"
+  },
+  {
+    "name": "Haselhof",
+    "belongsTo": "Reichertshausen"
+  },
+  {
+    "name": "Hasenhof",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Haunerhof",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Haunstetten",
+    "belongsTo": "Reichertshausen"
+  },
+  {
+    "name": "Haushausen",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Heißmanning",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Hettenshausen",
+    "belongsTo": null
+  },
+  {
+    "name": "Hickern",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Hilm",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Hirnsberg",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Hirschenhausen",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Hirschhausen",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Hochstattmühle",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Hof",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Höfartsmühle",
+    "belongsTo": "Vohburg a.d.Donau"
+  },
+  {
+    "name": "Höflmaier",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Hög",
+    "belongsTo": "Reichertshofen"
+  },
+  {
+    "name": "Hohenwart",
+    "belongsTo": null
+  },
+  {
+    "name": "Holzhäuseln",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Holzhausen",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Holzhof",
+    "belongsTo": "Reichertshausen"
+  },
+  {
+    "name": "Holzleiten",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Holzried",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Hornlohe",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Hörzell",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Hudlhub",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Hueb",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Hüll",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Ilmberg",
+    "belongsTo": "Reichertshausen"
+  },
+  {
+    "name": "Ilmendorf",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Ilmmünster",
+    "belongsTo": null
+  },
+  {
+    "name": "Ilmried",
+    "belongsTo": "Ilmmünster"
+  },
+  {
+    "name": "Irlmühle",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Irsching",
+    "belongsTo": "Vohburg a.d.Donau"
+  },
+  {
+    "name": "Jahnhöhe",
+    "belongsTo": "Hettenshausen"
+  },
+  {
+    "name": "Jebertshausen",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Jetzelmaierhöfe",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Jetzendorf",
+    "belongsTo": null
+  },
+  {
+    "name": "Junkenhofen",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Kaltenberg",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Kemmoden",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Kemnathen",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Kerschhof",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Kerum",
+    "belongsTo": "Reichertshausen"
+  },
+  {
+    "name": "Kienhöfe",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Kleinarreshausen",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Kleineberhof",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Kleinhub",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Kleinpalmberg",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Kleinreichertshofen",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Klenau",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Klingbach",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Klosterberg",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Knodorf",
+    "belongsTo": "Vohburg a.d.Donau"
+  },
+  {
+    "name": "Köglhaus",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Köhlhof",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Kohlmühle",
+    "belongsTo": "Reichertshausen"
+  },
+  {
+    "name": "Kohlstatt",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Kolmhof",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Kolmhof",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Königsfeld",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Koppenbach",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Kreithof",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Kreithof",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Kremshof",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Kreut",
+    "belongsTo": "Reichertshausen"
+  },
+  {
+    "name": "Kreut",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Kreutenbach",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Kreuth",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Kreuzmühle",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Krönmühle",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Kuglhof",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Kumpfmühle",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Labersberg",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Lahnbauer",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Lampertshausen",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Langenbruck",
+    "belongsTo": "Reichertshofen"
+  },
+  {
+    "name": "Langenwiesen",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Langwaid",
+    "belongsTo": "Reichertshausen"
+  },
+  {
+    "name": "Larsbach",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Lausham",
+    "belongsTo": "Reichertshausen"
+  },
+  {
+    "name": "Lehen",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Leiten",
+    "belongsTo": "Hettenshausen"
+  },
+  {
+    "name": "Leithen",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Lichthausen",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Lindach",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Lindach",
+    "belongsTo": "Manching"
+  },
+  {
+    "name": "Lindhof",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Loch",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Lohwinden",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Loipersdorf",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Loipertshausen",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Lueg",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Mammertshausen",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Manching",
+    "belongsTo": null
+  },
+  {
+    "name": "Maushof",
+    "belongsTo": "Pörnbach"
+  },
+  {
+    "name": "Menning",
+    "belongsTo": "Vohburg a.d.Donau"
+  },
+  {
+    "name": "Menzenbach",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Menzenpriel",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Merxmühle",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Mitterscheyern",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Mitterwöhr",
+    "belongsTo": "Münchsmünster"
+  },
+  {
+    "name": "Moosmühle",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Münchsmünster",
+    "belongsTo": null
+  },
+  {
+    "name": "Neukaslehen",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Niederlauterbach",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Niedermühle",
+    "belongsTo": "Münchsmünster"
+  },
+  {
+    "name": "Niederscheyern",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Niederstimm",
+    "belongsTo": "Manching"
+  },
+  {
+    "name": "Niederthann",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Niederwöhr",
+    "belongsTo": "Münchsmünster"
+  },
+  {
+    "name": "Nietenhausen",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Nötting",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Oberbuch",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Oberdummeltshausen",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Oberdünzing",
+    "belongsTo": "Vohburg a.d.Donau"
+  },
+  {
+    "name": "Obereulenthal",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Oberhartheim",
+    "belongsTo": "Vohburg a.d.Donau"
+  },
+  {
+    "name": "Oberkreut",
+    "belongsTo": "Pörnbach"
+  },
+  {
+    "name": "Oberlauterbach",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Obermettenbach",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Oberpaindorf",
+    "belongsTo": "Reichertshausen"
+  },
+  {
+    "name": "Oberschnatterbach",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Oberstark",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Oberstimm",
+    "belongsTo": "Manching"
+  },
+  {
+    "name": "Oberthann",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Oberwengen",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Oberwöhr",
+    "belongsTo": "Münchsmünster"
+  },
+  {
+    "name": "Oberzell",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Öd",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Ödhof",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Ossenzhausen",
+    "belongsTo": "Rohrbach"
+  },
+  {
+    "name": "Ottersried",
+    "belongsTo": "Rohrbach"
+  },
+  {
+    "name": "Paindorf",
+    "belongsTo": "Reichertshausen"
+  },
+  {
+    "name": "Pallertshausen",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Parleiten",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Peiglmühle",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Pernzhof",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Pfaffenhofen a.d.Ilm",
+    "belongsTo": null
+  },
+  {
+    "name": "Pichl",
+    "belongsTo": "Manching"
+  },
+  {
+    "name": "Pischelsdorf",
+    "belongsTo": "Reichertshausen"
+  },
+  {
+    "name": "Pitzlhof",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Pleiling",
+    "belongsTo": "Vohburg a.d.Donau"
+  },
+  {
+    "name": "Plöcking",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Pörnbach",
+    "belongsTo": null
+  },
+  {
+    "name": "Posthof",
+    "belongsTo": "Hettenshausen"
+  },
+  {
+    "name": "Prambach",
+    "belongsTo": "Hettenshausen"
+  },
+  {
+    "name": "Preinersdorf",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Preinerszell",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Priel",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Puch",
+    "belongsTo": "Pörnbach"
+  },
+  {
+    "name": "Radlhöfe",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Raffenstetten",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Raitbach",
+    "belongsTo": "Pörnbach"
+  },
+  {
+    "name": "Rauhof",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Reichertshausen",
+    "belongsTo": null
+  },
+  {
+    "name": "Reichertshofen",
+    "belongsTo": null
+  },
+  {
+    "name": "Reisdorf",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Reisgang",
+    "belongsTo": "Hettenshausen"
+  },
+  {
+    "name": "Riedermühle",
+    "belongsTo": "Ilmmünster"
+  },
+  {
+    "name": "Riedern",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Riedhof",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Rinnberg",
+    "belongsTo": "Rohrbach"
+  },
+  {
+    "name": "Ritterswörth",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Rockolding",
+    "belongsTo": "Vohburg a.d.Donau"
+  },
+  {
+    "name": "Rohr",
+    "belongsTo": "Rohrbach"
+  },
+  {
+    "name": "Rohrbach",
+    "belongsTo": null
+  },
+  {
+    "name": "Ronnweg",
+    "belongsTo": "Reichertshofen"
+  },
+  {
+    "name": "Rothof",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Rottenegg",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Rottmannshart",
+    "belongsTo": "Manching"
+  },
+  {
+    "name": "Sachenbach",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Salmading",
+    "belongsTo": "Reichertshausen"
+  },
+  {
+    "name": "Sankt Kastl",
+    "belongsTo": "Reichertshofen"
+  },
+  {
+    "name": "Sappenberg",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Saulbach",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Saxau",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Schabenberg",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Schachach",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Schaching",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Schafhof",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Schaibmaierhof",
+    "belongsTo": "Hettenshausen"
+  },
+  {
+    "name": "Schardling",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Schellneck",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Schernberg",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Scheuerhof",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Scheyern",
+    "belongsTo": null
+  },
+  {
+    "name": "Schillwitzhausen",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Schillwitzried",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Schlagenhausermühle",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Schleichern",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Schlott",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Schmidhausen",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Schmiedhausen",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Schönberg",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Schreinmühle",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Schrittenlohe",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Schwaig",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Schwaig",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Schweitenkirchen",
+    "belongsTo": null
+  },
+  {
+    "name": "Seibersdorf",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Seugen",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Siebenecken",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Siebeneich",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Siebeneichmühle",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Siegertszell",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Singenbach",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Singern",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Sommersberg",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Sonnenbrücke",
+    "belongsTo": "Manching"
+  },
+  {
+    "name": "Spielberg",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Stadelhof",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Starkertshofen",
+    "belongsTo": "Reichertshofen"
+  },
+  {
+    "name": "Starzhausen",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Steinerskirchen",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Steinkirchen",
+    "belongsTo": "Reichertshausen"
+  },
+  {
+    "name": "Stelzenberg",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Stockberg",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Stockhausen",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Stöffel",
+    "belongsTo": "Reichertshofen"
+  },
+  {
+    "name": "Straßhof",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Streitberg",
+    "belongsTo": "Hettenshausen"
+  },
+  {
+    "name": "Streitdorf",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Strobenried",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Sulzbach",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Sünzhausen",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Tegernbach",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Thalern",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Thalhof",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Thalhof",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Thann",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Thierham",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Thongräben",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Tränk",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Triefing",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Unterdumeltshausen",
+    "belongsTo": "Ilmmünster"
+  },
+  {
+    "name": "Untereulenthal",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Unterhartheim",
+    "belongsTo": "Vohburg a.d.Donau"
+  },
+  {
+    "name": "Unterkreut",
+    "belongsTo": "Pörnbach"
+  },
+  {
+    "name": "Untermettenbach",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Unterpindhart",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Unterschnatterbach",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Unterstark",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Unterwengen",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Uttenhofen",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Vieth",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Voglhof",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Voglried",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Vohburg a.d.Donau",
+    "belongsTo": null
+  },
+  {
+    "name": "Volkersdorf",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Waal",
+    "belongsTo": "Rohrbach"
+  },
+  {
+    "name": "Walkersbach",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Wasenstadt",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Wasenstatt",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Washof",
+    "belongsTo": "Hettenshausen"
+  },
+  {
+    "name": "Webling",
+    "belongsTo": "Hettenshausen"
+  },
+  {
+    "name": "Weichenried",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Weichselbaum",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Weiherhaus",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Weihern",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Weikenhausen",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Weilerau",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Weingarten",
+    "belongsTo": "Jetzendorf"
+  },
+  {
+    "name": "Weingarten",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Weingarten",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Wernthal",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Westenhausen",
+    "belongsTo": "Manching"
+  },
+  {
+    "name": "Westing",
+    "belongsTo": "Schweitenkirchen"
+  },
+  {
+    "name": "Wettermühle",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Weyern",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Wilhelm",
+    "belongsTo": "Wolnzach"
+  },
+  {
+    "name": "Winden",
+    "belongsTo": "Hettenshausen"
+  },
+  {
+    "name": "Winden am Aign",
+    "belongsTo": "Reichertshofen"
+  },
+  {
+    "name": "Winden bei Scheyern",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Wolfertshausen",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Wolfsberg",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Wolfshof",
+    "belongsTo": "Hohenwart"
+  },
+  {
+    "name": "Wolnhofen",
+    "belongsTo": "Reichertshofen"
+  },
+  {
+    "name": "Wolnzach",
+    "belongsTo": null
+  },
+  {
+    "name": "Wüstersberg",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Zaderhof",
+    "belongsTo": "Gerolsbach"
+  },
+  {
+    "name": "Zell",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Zell",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Ziegelnöbach",
+    "belongsTo": "Scheyern"
+  },
+  {
+    "name": "Ziegelstadel",
+    "belongsTo": "Geisenfeld"
+  },
+  {
+    "name": "Zierlmühle",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  },
+  {
+    "name": "Zweckhof",
+    "belongsTo": "Pfaffenhofen a.d.Ilm"
+  }
+]

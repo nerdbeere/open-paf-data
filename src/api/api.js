@@ -7,6 +7,8 @@ function Api(config) {
 
   this._db = new Database();
 
+  app.use(express.static('./build'));
+
   app.get('/news', function (req, res) {
     this._db.getLatest({
       table: 'news',

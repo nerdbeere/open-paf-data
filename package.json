@@ -7,9 +7,14 @@
     "test": "istanbul test _mocha  -- --reporter dot --recursive -r setup-referee-sinon/globals test",
     "start-crawler": "node ./src/crawler/index.js",
     "start-api": "node ./src/api/index.js",
-    "start": "node index.js"
+    "start": "node index.js",
+    "build-frontend": "mkdir -p build && parallelshell 'npm run build-frontend:js' 'npm run build-frontend:style' 'cp ./src/frontend/index.html ./build'",
+    "build-frontend:js": "browserify ./src/frontend/index.js -t [ babelify --sourceMapRelative ./frontend/src/ ] --insert-global-vars global --outfile ./build/frontend.max.js",
+    "build-frontend:style": "node-sass --output-style compressed --source-map ./build/frontend.css.map ./src/frontend/scss/index.scss ./build/frontend.css && autoprefixer ./build/frontend.css",
+    "watch-frontend": "nodemon --watch component/ --watch src/frontend --no-stdin --exec \"npm run build-frontend\""
   },
-  "author": "",
+  "author": "Julian Hollmann <julian.hollmann@gmail.com>",
+  "repository": "https://github.com/nerdbeere/open-paf-data",
   "license": "MIT",
   "devDependencies": {
     "istanbul": "^0.3.6",
@@ -22,12 +27,20 @@
     "sinon": "^1.12.2"
   },
   "dependencies": {
+    "autoprefixer": "^5.1.1",
+    "babelify": "^6.0.2",
+    "browserify": "^9.0.8",
     "cron": "^1.0.9",
     "express": "^4.12.3",
     "feedparser": "^1.0.1",
+    "font-awesome": "^4.3.0",
     "google": "^1.1.0",
     "lodash": "^3.6.0",
     "natural": "^0.2.1",
+    "node-sass": "^2.1.1",
+    "nodemon": "^1.3.7",
+    "parallelshell": "^1.1.1",
+    "react": "^0.13.0",
     "request": "^2.55.0",
     "rethinkdb": "^1.16.2",
     "sanitize-html": "^1.6.1",

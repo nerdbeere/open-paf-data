@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+@import url(http://fonts.googleapis.com/css?family=Lato);
+@import 'variables';
+
+$fa-font-path: "fonts" !default;
+$background-color: $white !default;
+$color-primary: #ff4081;
+$text-primary: $color-primary;
+$text-color: $darkgray-dark;
+
+@import '../../../node_modules/font-awesome/scss/font-awesome';
+
+@import 'component/stream';
+
+body {
+  background: $background-color;
+  font-family: Lato, "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+  color: $text-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $text-color;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 180%;
+
+  > .fa {
+    padding-right: 4px;
+  }
+}
+
+h2 {
+  font-size: 170%;
+}
+
+h3 {
+  font-size: 160%;
+}
+
+h4 {
+  font-size: 140%;
+}
+
+h5 {
+  font-size: 130%;
+}
+
+h6 {
+  font-size: 120%;
+}
+
+.text-muted {
+  color: $mediumgray-dark;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.label {
+  border-radius: 2px;
+  background: $color-primary;
+  color: $white;
+  padding: 4px;
+  font-size: 14px;
+  display: inline-block;
+}
