@@ -17,12 +17,13 @@ There is a lot of data out there regarding the county *Pfaffenhofen a. d. Ilm* b
 * Automatically gathers information in predefined intervals
 * Persist data to `rethinkdb`
 * Simple JSON API
+* Simple react-based frontend for displaying news
 
 ## Planned Features
 * More sophisticated API
 * Text Comparison for news (partly implemented)
 * Trending topics
-* Frontend 
+* Frontend (partly implemented)
 
 ## Implemented Adapters
 
