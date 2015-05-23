@@ -6,7 +6,7 @@ var winston = require('winston');
 var CronJob = require('cron').CronJob;
 
 var adapters = [
-  'landkreis-pfaffenhofen',
+  //'landkreis-pfaffenhofen',
   'pafunddu',
   'pfaffenhofener-kurier',
   'google',
