@@ -56,7 +56,7 @@ function Api(config) {
       limitTo: 1,
       orderBy: 'date'
     }, function(err, result) {
-      res.json(result);
+      res.json(result[0]);
     });
   }.bind(this));
 
