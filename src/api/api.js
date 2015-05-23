@@ -7,7 +7,18 @@ function Api(config) {
 
   this._db = new Database();
 
+  app.disable('x-powered-by');
+
+  var allowCrossDomain = function(req, res, next) {
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
+    res.header('Access-Control-Allow-Headers', 'Content-Type');
+
+    next();
+  };
+
   app.use(express.static('./build'));
+  app.use(allowCrossDomain);
 
   app.get('/news', function (req, res) {
     this._db.getLatest({
