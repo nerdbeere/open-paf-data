@@ -15,7 +15,8 @@ proto.save = function(timetable, callback) {
   var table = this._table;
   r.connect(this._options, function(err, conn) {
     if(err) {
-      throw new Error(err);
+      winston.error(err);
+      return;
     }
     r.table(table).insert(timetable, {conflict: 'replace'}).run(conn, function(err) {
       conn.close();

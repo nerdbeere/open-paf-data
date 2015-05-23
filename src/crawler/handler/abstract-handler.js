@@ -1,5 +1,6 @@
 var r = require('rethinkdb');
 var config = require('../../../config/rethinkdb.js');
+var winston = require('winston');
 
 function Handler() {
   this._options = config;
@@ -14,6 +15,11 @@ proto.save = function(newsArr, callback) {
   var started = new Date().getTime();
   var table = this._table;
   r.connect(this._options, function(err, conn) {
+
+    if(err) {
+      winston.error(err);
+      return;
+    }
 
     var done = 0;
     var docsInserted = 0;
