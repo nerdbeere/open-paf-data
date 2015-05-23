@@ -1,3 +1,3 @@
-var Crawler = require('./src/crawler/crawler.js');
+var Crawler = require('./crawler.js');
 
 new Crawler();
