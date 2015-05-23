@@ -38,6 +38,9 @@ There is a lot of data out there regarding the county *Pfaffenhofen a. d. Ilm* b
 ### Social
 * twitter (with searchterm `pfaffenhofen`)
 
+### Sport
+* Aktuelle GCR Abschlagszeiten
+
 ## Planned Adapters
 * Weather data
 * Events
@@ -45,6 +48,9 @@ There is a lot of data out there regarding the county *Pfaffenhofen a. d. Ilm* b
 * Cinema data
 
 ## Installation
+
+**Warning**: rethinkdb >= 2.0.0 is required!
+
 * Install `nodejs` and `rethinkdb` on your machine.
 * Create database `pafdata` with tables `news`, `search`, `social`
 * Clone the repository
