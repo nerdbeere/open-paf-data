@@ -39,6 +39,16 @@ function Api(config) {
     });
   }.bind(this));
 
+  app.get('/gcr_teetime', function (req, res) {
+    this._db.getLatest({
+      table: 'pccaddie',
+      limitTo: 1,
+      orderBy: 'date'
+    }, function(err, result) {
+      res.json(result);
+    });
+  }.bind(this));
+
   app.listen(config.port);
   winston.info('API listening on port', config.port);
 }

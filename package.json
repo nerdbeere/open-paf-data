@@ -30,6 +30,7 @@
     "autoprefixer": "^5.1.1",
     "babelify": "^6.0.2",
     "browserify": "^9.0.8",
+    "cheerio": "^0.19.0",
     "cron": "^1.0.9",
     "express": "^4.12.3",
     "feedparser": "^1.0.1",
@@ -42,7 +43,7 @@
     "parallelshell": "^1.1.1",
     "react": "^0.13.0",
     "request": "^2.55.0",
-    "rethinkdb": "^1.16.2",
+    "rethinkdb": "^2.0.0",
     "sanitize-html": "^1.6.1",
     "twitter": "^1.2.5",
     "winston": "^1.0.0"
