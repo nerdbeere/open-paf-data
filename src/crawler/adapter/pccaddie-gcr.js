@@ -91,9 +91,19 @@ proto.crawl = function(callback) {
         }
 
         var hcp = $playerInfo.find('.hcp').text();
+        var slotText = sanitze($playerInfo.find('.pcco-timetable-slot-text').text());
         var info = sanitze($playerInfo.find('.pcco-tooltip-display').text());
         var name = null;
         var playerType = null;
+
+        // check if slot is reserved for some reason
+        if(slotText) {
+          timeslot.slots.push({
+            reserved: true,
+            text: slotText
+          });
+          return;
+        }
 
         // remove handicap from info
         info = info.replace(hcp, '');
