@@ -80,6 +80,7 @@ proto.addCrawlerJob = function(adapter) {
     adapter.crawl(function(err, data) {
       if (err) {
         winston.error(adapter.id, 'Crawling error', err);
+        return;
       }
       winston.info(adapter.id, 'Crawling finished', 'inserted documents:', data.inserted);
       callback();

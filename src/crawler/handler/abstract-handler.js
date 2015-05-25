@@ -1,4 +1,5 @@
 var config = require('../../../config/rethinkdb.js');
+var winston = require('winston');
 
 function Handler(r) {
   this._table = null;
@@ -12,9 +13,14 @@ proto.save = function(newsArr, callback) {
   var table = this._table;
   var db = this._r.db(config.db);
 
-
   db.table(table).run(function(err, results) {
     var identifiers = [];
+
+    if(err) {
+      callback(err, null);
+      return;
+    }
+
     results.forEach(function(news) {
       identifiers.push(news.identifier);
     });

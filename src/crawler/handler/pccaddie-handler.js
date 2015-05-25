@@ -14,7 +14,10 @@ var proto = PccaddieHandler.prototype;
 proto.save = function(timetable, callback) {
   var table = this._table;
   this._r.db(config.db).table(table).insert(timetable, {conflict: 'replace'}).run(function(err) {
-    callback(err, {});
+    callback(err, {
+      total: 1,
+      inserted: 1
+    });
   });
 };
 
