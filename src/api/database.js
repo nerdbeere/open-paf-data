@@ -2,7 +2,7 @@ var r = require('rethinkdbdash');
 var config = require('../../config/rethinkdb');
 
 function Database() {
-  this._r = r();
+  this._r = r(config);
 }
 
 var proto = Database.prototype;

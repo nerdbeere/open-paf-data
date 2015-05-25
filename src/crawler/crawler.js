@@ -18,7 +18,7 @@ var adapters = [
 
 function PafData() {
 
-  this._r = r();
+  this._r = r(dbConfig);
 
   this._handler = {
     news: new NewsHandler(this._r),
