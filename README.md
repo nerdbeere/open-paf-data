@@ -16,7 +16,7 @@ There is a lot of data out there regarding the county *Pfaffenhofen a. d. Ilm* b
 * Gather and generalize data from different sources
 * Automatically gathers information in predefined intervals
 * Persist data to `rethinkdb`
-* Simple JSON API
+* Simple JSON API (with caching)
 * Simple react-based frontend for displaying news
 
 ## Planned Features
@@ -52,7 +52,7 @@ There is a lot of data out there regarding the county *Pfaffenhofen a. d. Ilm* b
 **Warning**: rethinkdb >= 2.0.0 is required!
 
 * Install `nodejs` and `rethinkdb` on your machine.
-* Create database `pafdata` with tables `news`, `search`, `social`
+* Create database `pafdata` with tables `news`, `search`, `social`, `pccaddie`
 * Clone the repository
 * Create config files by copying the example config files
 * `npm install`
@@ -74,6 +74,7 @@ There are currently three endpoints available:
 * **search_results**: `http://<HOSTNAME>:<PORT>/search_results`
 * **social**: `http://<HOSTNAME>:<PORT>/social`
 * **news**: `http://<HOSTNAME>:<PORT>/news`
+* **gcr_teetime**: `http://<HOSTNAME>:<PORT>/gcr_teetime`
 
 ### Example response
 
