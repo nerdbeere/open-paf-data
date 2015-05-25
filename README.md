@@ -74,6 +74,7 @@ There are currently three endpoints available:
 * **search_results**: `http://<HOSTNAME>:<PORT>/search_results`
 * **social**: `http://<HOSTNAME>:<PORT>/social`
 * **news**: `http://<HOSTNAME>:<PORT>/news`
+* **gcr_teetime**: `http://<HOSTNAME>:<PORT>/gcr_teetime`
 
 ### Example response
 
