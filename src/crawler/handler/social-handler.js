@@ -1,8 +1,8 @@
 var inherits = require('util').inherits;
 var AbstractHandler = require('./abstract-handler');
 
-function SocialHandler() {
-  AbstractHandler.apply(this);
+function SocialHandler(r) {
+  AbstractHandler.apply(this, arguments);
   this._table = 'social';
 }
 

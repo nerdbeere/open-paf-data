@@ -1,9 +1,9 @@
-var r = require('rethinkdb');
 var inherits = require('util').inherits;
 var AbstractHandler = require('./abstract-handler');
+var config = require('../../../config/rethinkdb.js');
 
-function PccaddieHandler() {
-  AbstractHandler.apply(this);
+function PccaddieHandler(r) {
+  AbstractHandler.apply(this, arguments);
   this._table = 'pccaddie';
 }
 
@@ -13,15 +13,8 @@ var proto = PccaddieHandler.prototype;
 
 proto.save = function(timetable, callback) {
   var table = this._table;
-  r.connect(this._options, function(err, conn) {
-    if(err) {
-      winston.error(err);
-      return;
-    }
-    r.table(table).insert(timetable, {conflict: 'replace'}).run(conn, function(err) {
-      conn.close();
-      callback(err, {});
-    });
+  this._r.db(config.db).table(table).insert(timetable, {conflict: 'replace'}).run(function(err) {
+    callback(err, {});
   });
 };
 

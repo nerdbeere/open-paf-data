@@ -4,6 +4,8 @@ var SocialHandler = require('./handler/social-handler');
 var PccaddieHandler = require('./handler/pccaddie-handler');
 var winston = require('winston');
 var CronJob = require('cron').CronJob;
+var r = require('rethinkdbdash');
+var dbConfig = require('../../config/rethinkdb');
 
 var adapters = [
   //'landkreis-pfaffenhofen',
@@ -15,11 +17,14 @@ var adapters = [
 ];
 
 function PafData() {
+
+  this._r = r();
+
   this._handler = {
-    news: new NewsHandler(),
-    search: new SearchHandler(),
-    social: new SocialHandler(),
-    pccaddie: new PccaddieHandler()
+    news: new NewsHandler(this._r),
+    search: new SearchHandler(this._r),
+    social: new SocialHandler(this._r),
+    pccaddie: new PccaddieHandler(this._r)
   };
 
   this._adapters = [];
@@ -60,7 +65,7 @@ proto._connectAdapters = function() {
 proto.schedule = function(adapter) {
   winston.info(adapter.id, 'Scheduling job');
   this.addCrawlerJob(adapter);
-  var job = new CronJob('*/10 * * * *', function() {
+  var job = new CronJob('*/20 * * * *', function() {
       this.addCrawlerJob(adapter);
     }.bind(this)
   );

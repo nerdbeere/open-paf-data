@@ -43,7 +43,7 @@
     "parallelshell": "^1.1.1",
     "react": "^0.13.0",
     "request": "^2.55.0",
-    "rethinkdb": "^2.0.0",
+    "rethinkdbdash": "^2.0.10",
     "sanitize-html": "^1.6.1",
     "twitter": "^1.2.5",
     "winston": "^1.0.0"
