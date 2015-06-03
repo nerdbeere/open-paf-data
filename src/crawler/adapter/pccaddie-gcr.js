@@ -111,6 +111,12 @@ proto.crawl = function(callback) {
         // split name and player type
         var parts = info.split('-');
 
+        if(parts.length > 2) {
+          var playerType = parts.pop();
+          var name = parts.join('-');
+          parts = [name, playerType];
+        }
+
         // check if name is supplied
         if(parts.length === 2) {
           var nameParts = parts.shift().split(',');
