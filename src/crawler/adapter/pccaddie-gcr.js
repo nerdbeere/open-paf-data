@@ -160,7 +160,7 @@ proto.crawl = function(callback) {
     });
     res.on('end', function() {
       var timetable = parse();
-      if(timetable.slots.length === 0) {
+      if(timetable.timeslots.length === 0) {
         return;
       }
       that._save(timetable, callback);
