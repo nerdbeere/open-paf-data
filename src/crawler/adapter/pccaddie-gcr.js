@@ -66,7 +66,7 @@ proto.crawl = function(callback) {
     var $ = cheerio.load(body);
 
     var data = {
-      date: parseDate($('#pcco-timetable-selection-date option:selected')),
+      date: new Date(),
       timeslots: []
     };
 
@@ -160,6 +160,9 @@ proto.crawl = function(callback) {
     });
     res.on('end', function() {
       var timetable = parse();
+      if(timetable.slots.length === 0) {
+        return;
+      }
       that._save(timetable, callback);
     });
   });
